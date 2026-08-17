@@ -16,11 +16,6 @@ I build applications at the intersection of AI, data analytics, and web developm
 - **NetDrive** — IoT-based smart car system with Wi-Fi control and real-time remote vehicle operation
 - **[PowerBI E-commerce Sales Dashboard](https://github.com/prathamesh9112004/PowerBI-Ecommerce-Sales-Dashboard)** — Interactive Power BI dashboard for e-commerce sales analysis
 
-#### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prathamesh9112004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh9112004&theme=dark&hide_border=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=prathamesh9112004&theme=dark&hide_border=false)
-
 #### 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshsonawane1212@gmail.com)
 
