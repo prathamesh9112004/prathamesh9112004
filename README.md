@@ -1,8 +1,9 @@
 ### Hi, I'm Prathamesh 👋
-
 B.E. in AI & Data Science, Savitribai Phule Pune University | CGPA: 9.30/10
 
 I build applications at the intersection of AI, data analytics, and web development — from natural-language data visualization tools to IoT-connected systems. Strong foundation in Python, SQL, and machine learning, with hands-on experience across internships and academic projects. Always eager to learn modern technologies and contribute to real-world software engineering.
+
+🔗 **Portfolio:** [prathamesh9112004.github.io/portfolio](https://prathamesh9112004.github.io/portfolio)
 
 #### 💼 Experience
 - **Web Development Intern** @ Prodigy Infotech — Built and deployed responsive web apps using HTML, CSS, JavaScript, and Bootstrap
@@ -17,6 +18,7 @@ I build applications at the intersection of AI, data analytics, and web developm
 - **[PowerBI E-commerce Sales Dashboard](https://github.com/prathamesh9112004/PowerBI-Ecommerce-Sales-Dashboard)** — Interactive Power BI dashboard for e-commerce sales analysis
 
 #### 📫 Reach me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E8F6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prathamesh9112004.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshsonawane1212@gmail.com)
 
 ---
